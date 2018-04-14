@@ -64,6 +64,12 @@
 			<version>1.7.7</version>
 		</dependency>
 		
+		<dependency>
+			<groupId>io.socket</groupId>
+			<artifactId>socket.io-client</artifactId>
+			<version>0.7.0</version>
+		</dependency>
+		
 	</dependencies>
 
 	<build>
